@@ -61,6 +61,14 @@
         <li>🏎️ <b>Optimized .NET 8 & Native C++:</b> Near-zero memory overhead and instant transcription speed.</li>
       </ul>
       <p>
+        <a href="https://cosmowhisper.com">
+          <img src="https://img.shields.io/badge/Website-CosmoWhisper.com-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="CosmoWhisper Website" />
+        </a>
+        <a href="https://cosmowhisper.com/#reviews">
+          <img src="https://img.shields.io/badge/Review%20App-Leave%20Feedback%20⭐-FFC107?style=for-the-badge&logo=star&logoColor=black" alt="Leave a Review" />
+        </a>
+      </p>
+      <p>
         <a href="https://github.com/Viguru24/CosmoWhisper-Downloads/releases/latest">
           <img src="https://img.shields.io/badge/Download-Windows_Setup-0078D6?style=for-the-badge&logo=windows" alt="Download Windows" />
         </a>
@@ -110,8 +118,8 @@
 | **Vixz YouTube Player** | Android (10+) | `.apk` | [📥 Download v1.9.6 APK](https://github.com/Viguru24/YouTube/releases/download/v1.9.6/Vixz-YouTube-Player-v1.9.6.apk) |
 | **Cosmo Symphony Studio** | Windows (10/11) | `.msixbundle` / `.msix` | [📥 Download v1.4.0 MSIX](https://github.com/Viguru24/Video/releases/download/v1.4.0/Cosmo.Symphony_1.4.0.0.msixbundle) |
 | **CosmoShare Companion** | Android | `.apk` | [📥 Download CosmoShare APK](https://github.com/Viguru24/Video/releases/download/v1.4.0/CosmoShare-v1.3.7.apk) |
-| **CosmoWhisper Dictation** | Windows | `.exe` Installer | [📥 Download Windows Setup](https://github.com/Viguru24/CosmoWhisper-Downloads/releases/download/v2.2.18/CosmoWhisper-Setup-2.2.18.exe) |
-| **CosmoWhisper Dictation** | macOS (Apple Silicon / Intel) | `.dmg` | [📥 Download macOS DMG](https://github.com/Viguru24/CosmoWhisper-Native/releases/download/v2.1.2-mac/CosmoWhisper_v2.1.2_macOS.dmg) |
+| **CosmoWhisper Dictation** | Windows / Web | `.exe` / Web | [📥 Windows Setup](https://github.com/Viguru24/CosmoWhisper-Downloads/releases/download/v2.2.18/CosmoWhisper-Setup-2.2.18.exe) • [🌐 CosmoWhisper.com](https://cosmowhisper.com) • [⭐ Review](https://cosmowhisper.com/#reviews) |
+| **CosmoWhisper Dictation** | macOS (Apple Silicon / Intel) | `.dmg` | [📥 Download macOS DMG](https://github.com/Viguru24/CosmoWhisper-Native/releases/download/v2.1.2-mac/CosmoWhisper_v2.1.2_macOS.dmg) • [⭐ Review](https://cosmowhisper.com/#reviews) |
 | **Vixz Desktop** | Windows (10/11) | `.msix` | [📥 Download Windows MSIX](https://github.com/Viguru24/VixzDesktop/releases/latest) |
 
 <hr/>
