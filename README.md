@@ -62,7 +62,7 @@
       </ul>
       <p>
         <a href="https://cosmowhisper.com">
-          <img src="https://img.shields.io/badge/Website-CosmoWhisper.com-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="CosmoWhisper Website" />
+          <img src="https://img.shields.io/badge/Website-CosmoWhisper.com-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="CosmoWhisper Website" />
         </a>
         <a href="https://cosmowhisper.com/#reviews">
           <img src="https://img.shields.io/badge/Review%20App-Leave%20Feedback%20⭐-FFC107?style=for-the-badge&logo=star&logoColor=black" alt="Leave a Review" />
@@ -85,9 +85,12 @@
         <li>🔋 <b>Smart Battery Optimization:</b> Dynamic GPS geofencing & low-power motion sensors.</li>
         <li>🚨 <b>Instant Safety Alerts:</b> Intelligent arrival notifications, departure triggers & emergency broadcast.</li>
       </ul>
-      <p>
+            <p>
+        <a href="https://github.com/Viguru24/Kin-Tracker/releases/latest">
+          <img src="https://img.shields.io/badge/Download-Android_APK_v2.8.1-00E676?style=for-the-badge&logo=android&logoColor=black" alt="Download APK" />
+        </a>
         <a href="https://github.com/Viguru24/Kin-Tracker">
-          <img src="https://img.shields.io/badge/Explore-Kin--Tracker-orange?style=for-the-badge&logo=android" alt="Kin-Tracker" />
+          <img src="https://img.shields.io/badge/GitHub-Repo-27272a?style=for-the-badge&logo=github" alt="Kin-Tracker Repo" />
         </a>
       </p>
     </td>
@@ -115,6 +118,7 @@
 
 | Application | Platform | Package Format | Direct Link |
 | :--- | :--- | :--- | :--- |
+| **Kin-Tracker** | Android (8.0+) | `.apk` | [📥 Download v2.8.1 APK](https://github.com/Viguru24/Kin-Tracker/releases/download/v2.8.1/KinTracker-v2.8.1.apk) • [Releases](https://github.com/Viguru24/Kin-Tracker/releases/latest) |
 | **Vixz YouTube Player** | Android (10+) | `.apk` | [📥 Download v1.9.6 APK](https://github.com/Viguru24/YouTube/releases/download/v1.9.6/Vixz-YouTube-Player-v1.9.6.apk) |
 | **Cosmo Symphony Studio** | Windows (10/11) | `.msixbundle` / `.msix` | [📥 Download v1.4.0 MSIX](https://github.com/Viguru24/Video/releases/download/v1.4.0/Cosmo.Symphony_1.4.0.0.msixbundle) |
 | **CosmoShare Companion** | Android | `.apk` | [📥 Download CosmoShare APK](https://github.com/Viguru24/Video/releases/download/v1.4.0/CosmoShare-v1.3.7.apk) |
