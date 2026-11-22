@@ -8,6 +8,7 @@
 <br/>
 
 [![GitHub stars](https://img.shields.io/github/stars/Viguru24?style=for-the-badge&logo=github&color=5865F2)](https://github.com/Viguru24)
+[![Showcase Portal](https://img.shields.io/badge/Showcase_Portal-viguru24.github.io-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://viguru24.github.io)
 [![Latest Releases](https://img.shields.io/badge/Releases-Live_Downloads-brightgreen?style=for-the-badge&logo=github)](https://github.com/Viguru24?tab=repositories)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
@@ -29,7 +30,10 @@
       </ul>
       <p>
         <a href="https://github.com/Viguru24/YouTube/releases/latest">
-          <img src="https://img.shields.io/badge/Download-Android_APK_v1.9.6-success?style=for-the-badge&logo=android" alt="Download APK" />
+          <img src="https://img.shields.io/badge/Download-Android_APK_v2.2.2-success?style=for-the-badge&logo=android" alt="Download APK" />
+        </a>
+        <a href="https://github.com/Viguru24/YouTube">
+          <img src="https://img.shields.io/badge/GitHub-Repo-27272a?style=for-the-badge&logo=github" alt="Vixz YouTube Repo" />
         </a>
       </p>
     </td>
@@ -43,10 +47,18 @@
       </ul>
       <p>
         <a href="https://github.com/Viguru24/Video/releases/latest">
-          <img src="https://img.shields.io/badge/Download-Windows_MSIX_v1.4.0-0078D6?style=for-the-badge&logo=windows" alt="Download MSIX" />
+          <img src="https://img.shields.io/badge/Download-Windows_MSIX_v1.4.15-0078D6?style=for-the-badge&logo=windows" alt="Download MSIX" />
         </a>
-        <a href="https://github.com/Viguru24/Video/releases/latest">
+        <a href="https://github.com/Viguru24/Video/releases/download/v1.4.0/CosmoShare-v1.3.7.apk">
           <img src="https://img.shields.io/badge/Download-Companion_APK-3DDC84?style=for-the-badge&logo=android" alt="Download APK" />
+        </a>
+      </p>
+      <p>
+        <a href="https://apps.microsoft.com/detail/9P4DFBGWGFF6?hl=en-us&gl=GB&ocid=pdpshare">
+          <img src="https://img.shields.io/badge/Microsoft%20Store-Get%20App-00a4ef?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Store" />
+        </a>
+        <a href="https://github.com/Viguru24/Video">
+          <img src="https://img.shields.io/badge/GitHub-Repo-27272a?style=for-the-badge&logo=github" alt="Cosmo Symphony Repo" />
         </a>
       </p>
     </td>
@@ -75,6 +87,9 @@
         <a href="https://github.com/Viguru24/CosmoWhisper-Native/releases/latest">
           <img src="https://img.shields.io/badge/Download-macOS_DMG-black?style=for-the-badge&logo=apple" alt="Download Mac" />
         </a>
+        <a href="https://github.com/Viguru24/CosmoWhisper-Native">
+          <img src="https://img.shields.io/badge/GitHub-Repo-27272a?style=for-the-badge&logo=github" alt="CosmoWhisper Repo" />
+        </a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -85,7 +100,7 @@
         <li>🔋 <b>Smart Battery Optimization:</b> Dynamic GPS geofencing & low-power motion sensors.</li>
         <li>🚨 <b>Instant Safety Alerts:</b> Intelligent arrival notifications, departure triggers & emergency broadcast.</li>
       </ul>
-            <p>
+      <p>
         <a href="https://github.com/Viguru24/Kin-Tracker/releases/latest">
           <img src="https://img.shields.io/badge/Download-Android_APK_v2.8.1-00E676?style=for-the-badge&logo=android&logoColor=black" alt="Download APK" />
         </a>
@@ -118,16 +133,37 @@
 
 | Application | Platform | Package Format | Direct Link |
 | :--- | :--- | :--- | :--- |
-| **Kin-Tracker** | Android (8.0+) | `.apk` | [📥 Download v2.8.1 APK](https://github.com/Viguru24/Kin-Tracker/releases/download/v2.8.1/KinTracker-v2.8.1.apk) • [Releases](https://github.com/Viguru24/Kin-Tracker/releases/latest) |
-| **Vixz YouTube Player** | Android (10+) | `.apk` | [📥 Download v1.9.6 APK](https://github.com/Viguru24/YouTube/releases/download/v1.9.6/Vixz-YouTube-Player-v1.9.6.apk) |
-| **Cosmo Symphony Studio** | Windows (10/11) | `.msixbundle` / `.msix` | [📥 Download v1.4.0 MSIX](https://github.com/Viguru24/Video/releases/download/v1.4.0/Cosmo.Symphony_1.4.0.0.msixbundle) |
-| **CosmoShare Companion** | Android | `.apk` | [📥 Download CosmoShare APK](https://github.com/Viguru24/Video/releases/download/v1.4.0/CosmoShare-v1.3.7.apk) |
-| **CosmoWhisper Dictation** | Windows / Web | `.exe` / Web | [📥 Windows Setup](https://github.com/Viguru24/CosmoWhisper-Downloads/releases/download/v2.2.18/CosmoWhisper-Setup-2.2.18.exe) • [🌐 CosmoWhisper.com](https://cosmowhisper.com) • [⭐ Review](https://cosmowhisper.com/#reviews) |
-| **CosmoWhisper Dictation** | macOS (Apple Silicon / Intel) | `.dmg` | [📥 Download macOS DMG](https://github.com/Viguru24/CosmoWhisper-Native/releases/download/v2.1.2-mac/CosmoWhisper_v2.1.2_macOS.dmg) • [⭐ Review](https://cosmowhisper.com/#reviews) |
-| **Vixz Desktop** | Windows (10/11) | `.msix` | [📥 Download Windows MSIX](https://github.com/Viguru24/VixzDesktop/releases/latest) |
+| **Kin-Tracker** | Android (8.0+) | `.apk` | [📥 Download v2.8.1 APK](https://github.com/Viguru24/Kin-Tracker/releases/download/v2.8.1/KinTracker-v2.8.1.apk) • [Releases](https://github.com/Viguru24/Kin-Tracker/releases/latest) • [Repo](https://github.com/Viguru24/Kin-Tracker) |
+| **Vixz YouTube Player** | Android (10+) | `.apk` | [📥 Download v2.2.2 APK](https://github.com/Viguru24/YouTube/releases/download/v2.2.2/Vixz-YouTube-Player-v2.2.2.apk) • [Releases](https://github.com/Viguru24/YouTube/releases/latest) • [Repo](https://github.com/Viguru24/YouTube) |
+| **Cosmo Symphony Studio** | Windows (10/11) | `.msixbundle` / `.msix` | [📥 Download v1.4.15 MSIX](https://github.com/Viguru24/Video/releases/download/v1.4.15/Cosmo.Symphony_1.4.15.0.msixbundle) • [MS Store](https://apps.microsoft.com/detail/9P4DFBGWGFF6?hl=en-us&gl=GB&ocid=pdpshare) • [Repo](https://github.com/Viguru24/Video) |
+| **CosmoShare Companion** | Android | `.apk` | [📥 Download CosmoShare APK](https://github.com/Viguru24/Video/releases/download/v1.4.0/CosmoShare-v1.3.7.apk) • [Repo](https://github.com/Viguru24/Video) |
+| **CosmoWhisper Dictation** | Windows / Web | `.exe` / Web | [📥 Windows Setup](https://github.com/Viguru24/CosmoWhisper-Downloads/releases/download/v2.2.18/CosmoWhisper-Setup-2.2.18.exe) • [🌐 CosmoWhisper.com](https://cosmowhisper.com) • [⭐ Review](https://cosmowhisper.com/#reviews) • [Repo](https://github.com/Viguru24/CosmoWhisper-Native) |
+| **CosmoWhisper Dictation** | macOS (Apple Silicon / Intel) | `.dmg` | [📥 Download macOS DMG](https://github.com/Viguru24/CosmoWhisper-Native/releases/download/v2.1.2-mac/CosmoWhisper_v2.1.2_macOS.dmg) • [⭐ Review](https://cosmowhisper.com/#reviews) • [Repo](https://github.com/Viguru24/CosmoWhisper-Native) |
+| **Vixz Desktop** | Windows (10/11) | `.msix` | [📥 Download Windows MSIX](https://github.com/Viguru24/VixzDesktop/releases/latest) • [Repo](https://github.com/Viguru24/VixzDesktop) |
+
+<hr/>
+
+## 📂 Full Public Repository Directory
+
+| Repository | Project | Category / Stack |
+| :--- | :--- | :--- |
+| [Viguru24/VixzDesktop](https://github.com/Viguru24/VixzDesktop) | **Vixz Desktop** | Windows Glassmorphic YouTube Player & AI Copilot (`.NET` / `WPF`) |
+| [Viguru24/cosmo-compendium](https://github.com/Viguru24/cosmo-compendium) | **Cosmo Compendium** | Android & iOS Tactile Recipe & Craft Formula Keeper (`Kotlin` / `Compose`) |
+| [Viguru24/FluencyAI](https://github.com/Viguru24/FluencyAI) | **FluencyAI** | AI-Powered English Tutoring PWA (`React` / `TypeScript`) |
+| [Viguru24/Video-downloader](https://github.com/Viguru24/Video-downloader) | **OmniDownloader** | Universal Video & Audio Studio PWA (`Python` / Glassmorphic Web UI) |
+| [Viguru24/DevControl](https://github.com/Viguru24/DevControl) | **DevControl** | Mission Control Desktop Dashboard for Antigravity (`Electron` / `React 19`) |
+| [Viguru24/cosmoscribe](https://github.com/Viguru24/cosmoscribe) | **CosmoScribe** | Local-First AI Voice Recording & Transcription Studio (`React` / `SQLite` / `Whisper`) |
+| [Viguru24/SimpleWhisper-App](https://github.com/Viguru24/SimpleWhisper-App) | **SimpleWhisper** | Lightweight Whisper Voice Transcription & Simulated Typing Assistant |
+| [Viguru24/CosmoWhisper-Downloads](https://github.com/Viguru24/CosmoWhisper-Downloads) | **CosmoWhisper Releases** | Official Windows Installer Binary Releases (`v2.2.18`) |
+| [Viguru24/viguru24.github.io](https://github.com/Viguru24/viguru24.github.io) | **Showcase Portal** | Sovereign Software Suite Web Portal ([viguru24.github.io](https://viguru24.github.io)) |
+| [Viguru24/Curriculum-Vitae](https://github.com/Viguru24/Curriculum-Vitae) | **Curriculum Vitae** | Louis De Souza — Senior Network Analyst & Principal Systems Architect |
+| [Viguru24/rotary-club-website](https://github.com/Viguru24/rotary-club-website) | **Rotary Club of Caterham** | Community Website & Easter Bunny Fun Run Event Platform |
+| [Viguru24/queen-of-clean-demo](https://github.com/Viguru24/queen-of-clean-demo) | **Queen of Clean London** | Cleaning Service Website Showcase ([queenofcleanlondon.co.uk](https://queenofcleanlondon.co.uk)) |
+| [Viguru24/Antigravity](https://github.com/Viguru24/Antigravity) | **Antigravity** | Sovereign AI Workspace & Developer Utilities |
+| [Viguru24/multigravity-pro](https://github.com/Viguru24/multigravity-pro) | **MultiGravity Pro** | Multi-Profile Antigravity IDE Runner (Fork) |
 
 <hr/>
 
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/Viguru24">Viguru24</a>. Free, open-source, and privacy-respecting forever.</sub>
+  <sub>Built with ❤️ by <a href="https://github.com/Viguru24">Viguru24</a> • <a href="https://viguru24.github.io">Showcase Portal</a>. Free, open-source, and privacy-respecting forever.</sub>
 </div>
