@@ -10,7 +10,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Viguru24?style=for-the-badge&logo=github&color=5865F2)](https://github.com/Viguru24)
 [![Showcase Portal](https://img.shields.io/badge/Showcase_Portal-viguru24.github.io-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://viguru24.github.io)
 [![Latest Releases](https://img.shields.io/badge/Releases-Live_Downloads-brightgreen?style=for-the-badge&logo=github)](https://github.com/Viguru24?tab=repositories)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![License: GPLv3 / MIT](https://img.shields.io/badge/License-GPLv3_%2F_MIT-blue.svg?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
 
 </div>
 
